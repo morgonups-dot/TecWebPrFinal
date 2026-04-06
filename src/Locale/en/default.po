@@ -1,0 +1,227 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2026-04-06 12:00+0000\n"
+"PO-Revision-Date: 2026-04-06 12:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Login"
+msgstr "Login"
+
+msgid "Logout"
+msgstr "Logout"
+
+msgid "Username"
+msgstr "Username"
+
+msgid "Password"
+msgstr "Password"
+
+msgid "Enter your email"
+msgstr "Enter your email"
+
+msgid "Enter your password"
+msgstr "Enter your password"
+
+msgid "Users"
+msgstr "Users"
+
+msgid "Add User"
+msgstr "Add User"
+
+msgid "Edit User"
+msgstr "Edit User"
+
+msgid "View User"
+msgstr "View User"
+
+msgid "Delete"
+msgstr "Delete"
+
+msgid "Del"
+msgstr "Del"
+
+msgid "Save"
+msgstr "Save"
+
+msgid "Submit"
+msgstr "Submit"
+
+msgid "Actions"
+msgstr "Actions"
+
+msgid "Nombres"
+msgstr "First Name"
+
+msgid "Apellido Paterno"
+msgstr "Last Name"
+
+msgid "Apellido Materno"
+msgstr "Mother's Last Name"
+
+msgid "Ci"
+msgstr "ID"
+
+msgid "Correo Electronico"
+msgstr "Email"
+
+msgid "Departamento"
+msgstr "Department"
+
+msgid "Sexo"
+msgstr "Gender"
+
+msgid "Direccion Vivienda"
+msgstr "Address"
+
+msgid "Telefono"
+msgstr "Phone"
+
+msgid "Telefono Emergencia"
+msgstr "Emergency Phone"
+
+msgid "Es Administrador"
+msgstr "Is Administrator"
+
+msgid "Idioma Preferido"
+msgstr "Preferred Language"
+
+msgid "Masculino"
+msgstr "Male"
+
+msgid "Femenino"
+msgstr "Female"
+
+msgid "Yes"
+msgstr "Yes"
+
+msgid "No"
+msgstr "No"
+
+msgid "Usuario"
+msgstr "User"
+
+msgid "Administrador"
+msgstr "Administrator"
+
+msgid "Seleccione departamento"
+msgstr "Select department"
+
+msgid "Seleccione sexo"
+msgstr "Select gender"
+
+msgid "Seleccione idioma"
+msgstr "Select language"
+
+msgid "New User"
+msgstr "New User"
+
+msgid "List Users"
+msgstr "List Users"
+
+msgid "Are you sure you want to delete # {0}?"
+msgstr "Are you sure you want to delete # {0}?"
+
+msgid "The user has been saved."
+msgstr "The user has been saved."
+
+msgid "The user has been deleted."
+msgstr "The user has been deleted."
+
+msgid "The user could not be saved. Please, try again."
+msgstr "The user could not be saved. Please, try again."
+
+msgid "The user could not be deleted. Please, try again."
+msgstr "The user could not be deleted. Please, try again."
+
+msgid "Please enter your credentials"
+msgstr "Please enter your credentials"
+
+msgid "Username or password incorrect"
+msgstr "Username or password incorrect"
+
+msgid "You do not have permission to perform this action"
+msgstr "You do not have permission to perform this action"
+
+msgid "You do not have permission to view this profile"
+msgstr "You do not have permission to view this profile"
+
+msgid "first"
+msgstr "first"
+
+msgid "previous"
+msgstr "previous"
+
+msgid "next"
+msgstr "next"
+
+msgid "last"
+msgstr "last"
+
+msgid "Page {{page}} of {{pages}}, showing {{current}} record(s) out of {{count}} total"
+msgstr "Page {{page}} of {{pages}}, showing {{current}} record(s) out of {{count}} total"
+
+msgid "Solo se permiten letras"
+msgstr "Only letters are allowed"
+
+msgid "Solo se permiten números"
+msgstr "Only numbers are allowed"
+
+msgid "Ingrese un correo electrónico válido"
+msgstr "Please enter a valid email"
+
+msgid "Departamento inválido"
+msgstr "Invalid department"
+
+msgid "Sexo inválido"
+msgstr "Invalid gender"
+
+msgid "Idioma inválido"
+msgstr "Invalid language"
+
+msgid "La contraseña debe tener al menos 6 caracteres"
+msgstr "Password must be at least 6 characters"
+
+msgid "Opcional - Solo letras"
+msgstr "Optional - Letters only"
+
+msgid "Dirección completa"
+msgstr "Full address"
+
+msgid "Mínimo 6 caracteres"
+msgstr "Minimum 6 characters"
+
+msgid "Mínimo 6 caracteres - dejar vacío para mantener actual"
+msgstr "Minimum 6 characters - leave empty to keep current"
+
+msgid "correo@ejemplo.com"
+msgstr "email@example.com"
+
+msgid "System"
+msgstr "System"
+
+msgid "User Management System"
+msgstr "User Management System"
+
+msgid "Español"
+msgstr "Spanish"
+
+msgid "English"
+msgstr "English"
+
+msgid "+ New User"
+msgstr "+ ADD"
+
+msgid "+ AGREGAR"
+msgstr "+ ADD"
+msgid "Iniciar Sesión"
+msgstr "Login"
+msgid "Buscar..."
+msgstr "Search..."
+msgid "Buscar"
+msgstr "Search"

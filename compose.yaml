@@ -1,0 +1,33 @@
+services:
+  db:
+    image: docker.io/library/mariadb:latest  # <--- URL Completa
+    container_name: db_final
+    restart: always
+    ports:
+      - "3306:3306"
+    environment:
+      MYSQL_ROOT_PASSWORD: "123"
+      MYSQL_DATABASE: proyecto_final_db
+    volumes:
+      - ./db_data:/var/lib/mysql
+
+  phpmyadmin:
+    image: docker.io/library/phpmyadmin:latest # <--- URL Completa
+    container_name: pma_final
+    environment:
+      - PMA_HOST=db
+      - PMA_ARBITRARY=1
+    ports:
+      - "8085:80"
+    depends_on:
+      - db
+
+  apache-php:
+    image: docker.io/library/php:8.2-apache # <--- URL Completa
+    container_name: cakephp_final
+    volumes:
+      - .:/var/www/html
+    ports:
+      - "8083:80"
+    depends_on:
+      - db

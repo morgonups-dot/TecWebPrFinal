@@ -67,4 +67,4 @@ podman exec -it cakephp_final composer install
 * **Carrera:** Ingeniería de Sistemas
 * **Materia:** Tecnologías Web II
 * **Institución:** Universidad Privada de Santa Cruz de la Sierra (UPDS)
-* **Fecha:** Abril 2026
+* **Fecha:** 03-04 2026

@@ -19,7 +19,7 @@ Sigue estos pasos para poner en marcha el proyecto en la red universitaria o loc
 
 ### 1. Clonar y Preparar
 ```bash
-git clone <URL_DE_TU_REPOSITORIO>
+git clone <https://github.com/morgonups-dot/TecWebPrFinal.git>
 cd app_ef
 ```
 
